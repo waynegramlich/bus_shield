@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3V3
+D +3.3V Power Rail
+$ENDCMP
+#
+$CMP VOLTAGE_REGULATOR
+D 3-pin Voltage Regulator
+$ENDCMP
+#
+#End Doc Library

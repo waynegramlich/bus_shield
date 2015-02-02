@@ -1,0 +1,297 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sun 01 Feb 2015 08:06:38 PM PST
+
+BeginCmp
+TimeStamp = /53EA3930;
+Reference = C1;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3BB3;
+Reference = C2;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3C1E;
+Reference = C3;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3C8A;
+Reference = C4;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3E9D;
+Reference = C5;
+ValeurCmp = 22uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA479D;
+Reference = C6;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA4CB4;
+Reference = C7;
+ValeurCmp = 22uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E996AB;
+Reference = C8;
+ValeurCmp = .1uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE8414;
+Reference = C9;
+ValeurCmp = 22uF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA7619;
+Reference = C10;
+ValeurCmp = 18pF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA7713;
+Reference = C11;
+ValeurCmp = 18pF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96A4D;
+Reference = D1;
+ValeurCmp = SD101C-TR;
+IdModule  = bus_shield:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /542FE734;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = bus_shield:T1_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AA4798;
+Reference = G1;
+ValeurCmp = OSHW_LOGO;
+IdModule  = bus_shield:OSHW_LOGO_400mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AA33AA;
+Reference = H1;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_shield:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9AFD9;
+Reference = H2;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_shield:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9B07B;
+Reference = H3;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_shield:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9B0DD;
+Reference = H4;
+ValeurCmp = 3MM_HOLE;
+IdModule  = bus_shield:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96A70;
+Reference = J1;
+ValeurCmp = TERMINATE_JUMPER;
+IdModule  = bus_shield:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9683A;
+Reference = N1;
+ValeurCmp = BUS_SLAVE_HEADER;
+IdModule  = bus_shield:Pin_Header_Straight_2x05_Shrouded;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96ADF;
+Reference = N2;
+ValeurCmp = FTDI_HEADER;
+IdModule  = bus_shield:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE2958;
+Reference = N3;
+ValeurCmp = ARD_D9_13_CONN;
+IdModule  = bus_shield:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE298F;
+Reference = N4;
+ValeurCmp = ARD_DO_D7;
+IdModule  = bus_shield:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE2D08;
+Reference = N5;
+ValeurCmp = ARD_A0_A5;
+IdModule  = bus_shield:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE2D2F;
+Reference = N6;
+ValeurCmp = ARD_PWR;
+IdModule  = bus_shield:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CDC8ED;
+Reference = N7;
+ValeurCmp = ISP_CONN;
+IdModule  = bus_shield:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAC63C;
+Reference = R1;
+ValeurCmp = 22K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAC7FD;
+Reference = R2;
+ValeurCmp = 33K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEA953;
+Reference = R3;
+ValeurCmp = 120;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EACAD9;
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA42CF;
+Reference = R5;
+ValeurCmp = .47;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CED497;
+Reference = R6;
+ValeurCmp = 100K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /542FA869;
+Reference = R7;
+ValeurCmp = 100K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E99988;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CDFB7B;
+Reference = R9;
+ValeurCmp = 470;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9A9CA;
+Reference = SW1;
+ValeurCmp = MJTP1243;
+IdModule  = bus_shield:Button_6.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA309B;
+Reference = U1;
+ValeurCmp = 74HCT08;
+IdModule  = bus_shield:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3E06;
+Reference = U2;
+ValeurCmp = LM2940;
+IdModule  = bus_shield:TO-220_Neutral123_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E968BB;
+Reference = U3;
+ValeurCmp = MCP2562;
+IdModule  = bus_shield:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CE7224;
+Reference = U4;
+ValeurCmp = LM117T-3.3;
+IdModule  = bus_shield:TO-220_Neutral123_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E952D0;
+Reference = U5;
+ValeurCmp = ATMEGA328_DIP28;
+IdModule  = bus_shield:DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA6D8D;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = bus_shield:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe

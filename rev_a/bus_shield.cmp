@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sun 01 Feb 2015 08:06:38 PM PST
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 09 Feb 2015 10:32:47 AM PST
 
 BeginCmp
 TimeStamp = /53EA3930;
@@ -74,6 +74,13 @@ BeginCmp
 TimeStamp = /53EA7713;
 Reference = C11;
 ValeurCmp = 18pF;
+IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9074B;
+Reference = C12;
+ValeurCmp = .1uF;
 IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
 EndCmp
 
@@ -246,6 +253,20 @@ IdModule  = bus_shield:Resistor_Horizontal_400;
 EndCmp
 
 BeginCmp
+TimeStamp = /54D90638;
+Reference = R10;
+ValeurCmp = 180;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9087A;
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = bus_shield:Resistor_Horizontal_400;
+EndCmp
+
+BeginCmp
 TimeStamp = /53E9A9CA;
 Reference = SW1;
 ValeurCmp = MJTP1243;
@@ -285,6 +306,13 @@ TimeStamp = /53E952D0;
 Reference = U5;
 ValeurCmp = ATMEGA328_DIP28;
 IdModule  = bus_shield:DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D8F4EC;
+Reference = U6;
+ValeurCmp = 74HCT03;
+IdModule  = bus_shield:DIP-14__300;
 EndCmp
 
 BeginCmp

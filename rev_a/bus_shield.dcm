@@ -12,8 +12,38 @@ $CMP 3V3
 D +3.3V Power Rail
 $ENDCMP
 #
+$CMP 7400
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP 74HC00
+D Quad nand2
+K HCMOS nand2
+$ENDCMP
+#
+$CMP 74HCT00
+D Quad nand2
+K HCTMOS nand2
+$ENDCMP
+#
 $CMP 74LS09
 D Quad 2-input AND Gate
+$ENDCMP
+#
+$CMP 74LS37
+D Quad Buffer nand2
+K TTL nand2 buffer
+$ENDCMP
+#
+$CMP 74xx00
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP 74xx03
+D Quad nand2
+K TTL nand2
 $ENDCMP
 #
 $CMP BUS_SLAVE_HEADER

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 09 Feb 2015 10:32:47 AM PST
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Thu 12 Feb 2015 10:53:47 PM PST
 
 BeginCmp
 TimeStamp = /53EA3930;
@@ -31,7 +31,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53EA3E9D;
 Reference = C5;
-ValeurCmp = 22uF;
+ValeurCmp = 22uF_35V_ALUM;
 IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
 EndCmp
 
@@ -45,7 +45,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53EA4CB4;
 Reference = C7;
-ValeurCmp = 22uF;
+ValeurCmp = 22uF_6.3V_TANT;
 IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
 EndCmp
 
@@ -59,7 +59,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54CE8414;
 Reference = C9;
-ValeurCmp = 22uF;
+ValeurCmp = 22uF_6.3V_TANT;
 IdModule  = bus_shield:Capacitor3MMDiscRM2.5;
 EndCmp
 
